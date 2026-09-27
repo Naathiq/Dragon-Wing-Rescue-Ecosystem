@@ -1,0 +1,6 @@
+{
+  "name": "AI Disaster Search & Rescue – Mission Control",
+  "description": "Mission control dashboard for AI-powered autonomous UAVs conducting search-and-rescue, survivor location, and hazard detection in disaster zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
